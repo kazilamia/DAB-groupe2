@@ -1,4 +1,4 @@
-package compteBancaire;
+﻿package compteBancaire;
 import java.util.Scanner;
 /**
  * Created by H on 16/10/2016.
@@ -54,11 +54,11 @@ public class Client {
                 System.out.println("");
                 System.out.print("\n               Menu           ");
                 System.out.print(" \n     -------------------------");
-                System.out.print("\n       ||1)Crée un  compte||");
-                System.out.print("\n       ||2)|depot         ||");
-                System.out.print("\n       ||3)|retrait       ||");
-                System.out.print("\n       ||4)afficher compte||");
-                System.out.print("\n       ||5)quitté         ||");
+                System.out.print("\n       ||1) Crée un  compte ||");
+                System.out.print("\n       ||2) |depot          ||");
+                System.out.print("\n       ||3) |retrait        ||");
+                System.out.print("\n       ||4) afficher compte ||");
+                System.out.print("\n       ||5) quitté          ||");
                 System.out.println(" \n      ------------------------");
                 System.out.print("\n>");
 
